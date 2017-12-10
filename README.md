@@ -60,7 +60,7 @@
         + cmd: php vendor/bin/phinx migrate -c phinx.yml
         + cmd: php vendor/bin/phinx seed:run -c phinx.yml => create data login
 
-#NOTE
+# NOTE
     - khi chạy trên môi trường production hoặc development thêm -e development
     - Ví dụ môi trường development
         php vendor/bin/phinx migrate -c phinx.yml -e development
