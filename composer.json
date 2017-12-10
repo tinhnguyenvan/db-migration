@@ -1,0 +1,12 @@
+{
+    "name": "VinaCircle Medias",
+    "authors": [
+        {
+            "name": "Tinh Nguyen Van",
+            "email": "tinhnguyenvan91@gmail.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "^0.8.1"
+    }
+}
